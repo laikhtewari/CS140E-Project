@@ -1,1 +1,6 @@
 .vscode
+*.d
+*.o
+*.bin
+*.elf
+*.list
